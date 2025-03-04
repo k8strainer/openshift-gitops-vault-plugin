@@ -1,3 +1,4 @@
+# CM for Argo Vault Plugin
 ---
 apiVersion: v1
 kind: ConfigMap
